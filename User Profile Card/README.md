@@ -17,6 +17,6 @@ This mini project demonstrates a user profile card with interactive features usi
 
 ## Screenshots
 
-![User Profile Card](/Screenshots/User-profile-card.png)
+![User Profile Card](https://github.com/kartikkesbhat-2003/Mini-Projects/blob/429ca60f935e4c5dfccf1d2d8b5810c3e73914bc/User%20Profile%20Card/Screenshots/User%20profile%20card.png)
 ![User Profile Card](https://github.com/kartikkesbhat-2003/Mini-Projects/blob/bc7fd1a8c49d8a17ee9b959583d55f0cd82306cc/User%20Profile%20Card/Screenshots/Share-my-profile.png)
 

@@ -11,21 +11,21 @@ This mini project demonstrates a user profile card with interactive features usi
 
 ### `openModel()`
 
-'''javascrip
+```javascrip
 function openModel() {
     modal.classList.remove('hide-model');
 }
-'''
+```
 
 This function is responsible for displaying the modal for sharing options. It removes the 'hide-model' class from the modal container, making it visible.
 
 ### `closeModel()`
 
-'''javascript
+```javascript
 function closeModel() {
     modal.classList.add('hide-model');
 }
-'''
+```
 
 This function is responsible for hiding the modal for sharing options. It adds the 'hide-model' class to the modal container, making it invisible.
 

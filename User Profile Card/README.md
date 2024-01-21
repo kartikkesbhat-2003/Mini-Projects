@@ -7,6 +7,29 @@ This mini project demonstrates a user profile card with interactive features usi
 - **Author:** Kartik Kesbhat
 - **Role:** Developer
 
+## JavaScript Functions
+
+### `openModel()`
+
+'''javascrip
+function openModel() {
+    modal.classList.remove('hide-model');
+}
+'''
+
+This function is responsible for displaying the modal for sharing options. It removes the 'hide-model' class from the modal container, making it visible.
+
+### `closeModel()`
+
+'''javascript
+function closeModel() {
+    modal.classList.add('hide-model');
+}
+'''
+
+This function is responsible for hiding the modal for sharing options. It adds the 'hide-model' class to the modal container, making it invisible.
+
+
 ## Features
 
 - User profile card with a profile picture, name, and subtitle.
